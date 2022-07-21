@@ -10,7 +10,7 @@ github: https://github.com/wguo1877
 
 # About me
 
-I'm a backend software engineer at Plaid and part-time Roger Federer fanboy.
+I'm a software engineer at Plaid and part-time Roger Federer fanboy.
 
 ## Career timeline
 
