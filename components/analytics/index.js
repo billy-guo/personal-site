@@ -10,6 +10,11 @@ const isProduction = process.env.NODE_ENV === 'production'
 const Analytics = () => {
   return (
     <>
+      <script
+        data-goatcounter="https://bguo.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></script>
       {isProduction && siteMetadata.analytics.plausibleDataDomain && <Plausible />}
       {isProduction && siteMetadata.analytics.simpleAnalytics && <SimpleAnalytics />}
       {isProduction && siteMetadata.analytics.umamiWebsiteId && <Umami />}
