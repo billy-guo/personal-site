@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Billy Guo',
   author: 'Billy Guo',
   // headerTitle: 'TailwindBlog',
-  description: "I'm a backend software engineer at Plaid and part-time Roger Federer fanboy.",
+  description: "I'm a software engineer at Plaid and part-time Roger Federer fanboy.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
