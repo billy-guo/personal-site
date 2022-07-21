@@ -1,16 +1,27 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Billy Guo
+avatar: /static/images/headshot.jpg
+occupation: Software Engineer
+company: Plaid
+email: billy.r.guo@gmail.com
+linkedin: https://www.linkedin.com/in/william-guo
+github: https://github.com/wguo1877
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+# About me
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I'm a backend software engineer at Plaid and part-time Roger Federer fanboy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## Career timeline
+
+### Plaid · 2022 - Present
+
+- Risk Engineering
+
+### Lyft/WPNA Level 5 · 2021 - 2022
+
+- CarViz, Developer Tools
+
+### Stripe · 2019 - 2020
+
+- [Stripe Radar](https://stripe.com/radar)

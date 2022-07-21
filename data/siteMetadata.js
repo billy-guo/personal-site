@@ -1,21 +1,18 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Billy Guo',
+  author: 'Billy Guo',
+  // headerTitle: 'TailwindBlog',
+  description: "I'm a backend software engineer at Plaid and part-time Roger Federer fanboy.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  socialBanner: '/static/images/headshot.jpg',
+  siteLogo: '/static/images/headshot.jpg',
+  image: '/static/images/headshot.jpg',
+  email: 'billy.r.guo@gmail.com',
+  github: 'https://github.com/wguo1877',
+  linkedin: 'https://www.linkedin.com/in/william-guo',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -30,7 +27,8 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    // provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
