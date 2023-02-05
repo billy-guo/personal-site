@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Billy Guo',
   author: 'Billy Guo',
   // headerTitle: 'TailwindBlog',
-  description: "I'm a software engineer at Plaid and part-time Roger Federer fanboy.",
+  description: "I'm a software engineer at Discord and full-time Roger Federer stan.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -11,7 +11,7 @@ const siteMetadata = {
   siteLogo: '/static/images/headshot.jpg',
   image: '/static/images/headshot.jpg',
   email: 'billy.r.guo@gmail.com',
-  github: 'https://github.com/wguo1877',
+  github: 'https://github.com/billy-guo',
   linkedin: 'https://www.linkedin.com/in/william-guo',
   locale: 'en-US',
   analytics: {
