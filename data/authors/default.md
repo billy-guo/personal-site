@@ -2,19 +2,23 @@
 name: Billy Guo
 avatar: /static/images/headshot.jpg
 occupation: Software Engineer
-company: Plaid
+company: Discord
 email: billy.r.guo@gmail.com
 linkedin: https://www.linkedin.com/in/william-guo
-github: https://github.com/wguo1877
+github: https://github.com/billy-guo
 ---
 
 # About me
 
-I'm a software engineer at Plaid and part-time Roger Federer fanboy.
+I'm a software engineer at Discord and full-time Roger Federer stan.
 
 ## Career timeline
 
-### Plaid · 2022 - Present
+### Discord · 2023 - Present
+
+- Trust & Safety
+
+### Plaid · 2022 - 2023
 
 - Risk Engineering
 
